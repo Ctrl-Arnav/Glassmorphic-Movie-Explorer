@@ -19,6 +19,6 @@ Users interact via a glassmorphic web interface that supports genre selection, k
 * Metrics: nDCG, Precision\@K, Recall
 
 **Authours:**
-Arnav Sharma
-Katya Chadha
-Amisha Mittal
+* Arnav Sharma
+* Katya Chadha
+* Amisha Mittal
